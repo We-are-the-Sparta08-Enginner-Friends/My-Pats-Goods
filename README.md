@@ -7,9 +7,9 @@
 
 > ## 팀원
 
-- ### 최은강
-- ### 김현진
-- ### 양준호
+- ### [최은강](https://github.com/We-are-the-Sparta08-Enginner-Friends/My-Pats-Goods/tree/master/%EA%B8%B0%ED%9A%8D)
+- ### [김현진](https://github.com/We-are-the-Sparta08-Enginner-Friends/My-Pats-Goods/tree/master/%EA%B8%B0%ED%9A%8D/%EA%B9%80%ED%98%84%EC%A7%84)
+- ### [양준호](https://github.com/We-are-the-Sparta08-Enginner-Friends/My-Pats-Goods/tree/master/%EA%B8%B0%ED%9A%8D/%EC%96%91%EC%A4%80%ED%98%B8)
 
 > ## skill-set
 
